@@ -9,5 +9,6 @@ the TSP has been implemented.
 <h2>External modules imported</h2>
 <ul><li>numpy</li>
 <li>matplotlib</li></ul>
-
+<H2>SAMPLE SOM RESULTS</H2>
+![Image](https://github.com/user-attachments/assets/d49c155c-80c9-4d4b-b121-cacf59b40b38)
 
